@@ -1,6 +1,9 @@
 # Wait4U
 
-가게의 자리 유무 현황을 알려줘 가게와 고객 모두 시간을 아낄수 있는 앱
+가게의 자리 유무 현황을 알려주고, 줄서기 기능을 제공해 가게와 고객 모두 시간을 아낄수 있는 앱
+
+React Native를 이용하여 Front-end 개발
+
 ## 로그인, 회원가입
 
 <img src="https://user-images.githubusercontent.com/78538108/168071367-9b91f20a-1714-485e-b3d6-b91515935495.png" width="200" height="400"/>  <img src="https://user-images.githubusercontent.com/78538108/168071370-33c971f0-5f07-48d1-b13d-e175930c7a2a.png" width="200" height="400"/>  <img src="https://user-images.githubusercontent.com/78538108/168071371-75dabe3b-2d2b-44bf-840a-92dcf96cd669.png" width="200" height="400"/>  
